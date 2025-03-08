@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related QA APIs "
   contactDetails:
     name: "Sneha Doe - QA Lead"
-    email: "snehaD@svr.com"
+    email: "c11fdaa793e3840dc136986f12ff66dbb387db68a9018a402f0f82ebc9cdb6fa"
   onCallSupport:
     - (555) 777-4568
     - (555) 666-9874
