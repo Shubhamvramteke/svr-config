@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Bank accounts related PRODUCTION APIs "
+  contactDetails:
+    name: "ShubhamR - Product Owner"
+    email: "shubhamR@svr.com"
+  onCallSupport:
+    - (555) 555-9860
+    - (555) 523-8208

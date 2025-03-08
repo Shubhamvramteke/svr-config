@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to Cards related local APIs "
+  contactDetails:
+    name: "MOCK Doe - Developer"
+    email: "mock@svr.com"
+  onCallSupport:
+    - (555) 665-1234
+    - (555) 858-1345
+

@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to loan related PRODUCTION APIs "
+  contactDetails:
+    name: "ShubhamR - Product Owner"
+    email: "shubhamR@svr.com"
+  onCallSupport:
+    - (555) 555-9860
+    - (555) 523-8208

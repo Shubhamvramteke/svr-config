@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to cards  related QA APIs "
+  contactDetails:
+    name: "Sneha Doe - QA Lead"
+    email: "snehaD@svr.com"
+  onCallSupport:
+    - (555) 777-4568
+    - (555) 666-9874
