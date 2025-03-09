@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to My Bank accounts related QA APIs "
+  message: "Welcome to My Bank accounts related QA APIs RABBIT "
   contactDetails:
     name: "Sneha R - QA Lead"
     email: "{cipher}c11fdaa793e3840dc136986f12ff66dbb387db68a9018a402f0f82ebc9cdb6fa"
